@@ -7,8 +7,8 @@
 
 Анимация примера работы находится в папке `demo` и загружается как `demo/demo.gif`:
 
-![Demo](demo/demo.gif)
 
+![Demo](demo/demo.gif)
 ---
 
 ## Управление
